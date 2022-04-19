@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1650345920655,5892,login,200,OK,Thread Group 1-1,text,true,,39662,262,1,1,https://opensource-demo.orangehrmlive.com/,790,0,354
+1650345920655,852,login-0,301,Moved Permanently,Thread Group 1-1,text,true,,372,131,1,1,http://opensource-demo.orangehrmlive.com/,790,0,354
+1650345921526,5021,login-1,200,OK,Thread Group 1-1,text,true,,39290,131,1,1,https://opensource-demo.orangehrmlive.com/,4630,0,3825
+1650345926552,818,dashboard,404,Not Found,Thread Group 1-1,text,false,,38786,286,1,1,https://opensource-demo.orangehrmlive.com/index.php%20,398,0,0
+1650345926552,398,dashboard-0,301,Moved Permanently,Thread Group 1-1,text,true,,384,143,1,1,http://opensource-demo.orangehrmlive.com/index.php%20,398,0,0
+1650345926951,419,dashboard-1,404,Not Found,Thread Group 1-1,text,false,,38402,143,1,1,https://opensource-demo.orangehrmlive.com/index.php%20,415,0,0

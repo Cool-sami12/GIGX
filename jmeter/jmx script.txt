@@ -1,0 +1,2 @@
+
+jmeter -n –t \xxxx\xxxxxx\Downloads\apache-jmeter-5.4.1\apache-jmeter-5.4.1\backups\LoadTesting-000007.jmx -l \xxxx\xxxxxx\Downloads\apache-jmeter-5.4.1\apache-jmeter-5.4.1\backups\loadTestR.csv
